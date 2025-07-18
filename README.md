@@ -27,4 +27,4 @@ Supports API key authentication with different access levels (user/admin) and CR
 
 ## Author
 
-Mike Papageorgiou
+Michael Papageorgiou
