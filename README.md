@@ -20,10 +20,11 @@ Supports API key authentication with different access levels (user/admin) and CR
 
 ## Usage
 1. To set up the database, import the boats_schema.sql into your MySQL instance.
-2. Run the Flask backend server.  
-3. Launch the Tkinter GUI client.  
-4. Enter your API key to unlock functionality.  
-5. Use the dropdowns and forms to perform CRUD operations.
+2. Create your .env file as seen in .env.example.
+3. Run the Flask backend server.  
+4. Launch the Tkinter GUI client.  
+5. Enter your API key to unlock functionality.  
+6. Use the dropdowns and forms to perform CRUD operations.
 
 ## Author
 
